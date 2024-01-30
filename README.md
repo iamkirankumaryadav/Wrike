@@ -7,7 +7,7 @@
   </figure>
 </p>
 
-### Workspace:
+### My Home | Workspace:
 <p>
   <figure>
   <img src='Images/Workspace.png'>  
