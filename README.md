@@ -2,5 +2,5 @@
 
 
 <p>
-  <img src='Image/Workspace.png'>
+  <img src='Images/Workspace.png'>
 </p>
