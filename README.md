@@ -1,5 +1,7 @@
 # [Wrike](https://www.wrike.com)
 
+<p><a href='https://www.wrike.com'><img src='Images/Wrike.png'></img></a></p>
+
 ### Building Blocks of Wrike:
 <p>
   <figure>
