@@ -1,2 +1,1 @@
-# Wrike
-https://www.wrike.com
+# [Wrike](https://www.wrike.com)
