@@ -3,7 +3,8 @@
 
 <p>
   <figure>
+  ### Workspace
   <img src='Images/Workspace.png'>
-  <figcaption style='text-align:center;'><b>Workspace</b></figcaption>
+  <figcaption><b>Workspace</b></figcaption>
   </figure>
 </p>
