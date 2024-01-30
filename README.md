@@ -4,6 +4,6 @@
 <p>
   <figure>
   <img src='Images/Workspace.png'>
-  <figcaption>Workspace</figcaption>
+  <figcaption align=center><b>Workspace</b></figcaption>
   </figure>
 </p>
