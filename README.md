@@ -1,4 +1,4 @@
-<p><a href='https://www.wrike.com'><img src='Images/Wrike.png' style="width:10%"></img></a></p>
+<p text-align=center><a href='https://www.wrike.com'><img src='Images/Wrike.png' style="width:10%"></img></a></p>
 
 ### Building Blocks of Wrike:
 <p>
