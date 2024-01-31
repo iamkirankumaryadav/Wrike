@@ -43,3 +43,12 @@
 5. Interconnect the tasks according to their dependencies (Gantt Chart View)
 6. Mark the final step (Task) of your project as a `milestone` (Important event, Aim of the project)
 
+### Providing Access to data:
+1. Sharing (Share the space, folder or projects with team members, providing access and visibility)
+2. Following (Follow up and keep an eye on the project, providing access and update)
+3. Assigning (Complete responsibility for project tasks, providing accountability and responsibility)
+
+### License Types:
+1. Regular User (Have rights to view and edit)
+2. External User (Have rights to only view, they can't edit, add new users or share it with anyone)
+3. Collaborator (Limited rights within the workspace, change status, comment, and attach files)
