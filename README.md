@@ -35,4 +35,11 @@
   </figure>
 </p>
 
+#### **Traits for efficient project management:**
+1. All the `projects` need to be populated with tasks (Action Items)
+2. The `title` should be in the form of a `verb` so that an assignee can understand the aim (Write the script, Create documentation, etc.)
+3. All the tasks should be `assigned` (One assignee should be accountable for each task)
+4. All the tasks should be `scheduled` (Prioritize your work daily)
+5. Interconnect the tasks according to their dependencies (Gantt Chart View)
+6. Mark the final step (Task) of your project as a `milestone` (Important event, Aim of the project)
 
