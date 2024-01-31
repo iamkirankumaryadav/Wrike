@@ -1,6 +1,6 @@
 <p align=center><a href='https://www.wrike.com'><img src='Images/Wrike.png' style="width:10%"></img></a></p>
 
-[**Videos**](https://help.wrike.com/hc/en-us/categories/201188625?type=videos&category=for-admins) | [Webinars](https://help.wrike.com/hc/en-us/categories/201188625?type=webinars) | [Best Practices](https://library.wrike.com/handbook-best-practices) | [**Best Practices**](https://library.wrike.com/handbook-best-practices)
+[**Videos**](https://help.wrike.com/hc/en-us/categories/201188625?type=videos&category=for-admins) | [**Webinars**](https://help.wrike.com/hc/en-us/categories/201188625?type=webinars) | [**Best Practices**](https://library.wrike.com/handbook-best-practices)
 
 ### Building Blocks of Wrike:
 <p>
