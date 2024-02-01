@@ -9,7 +9,7 @@
   </figure>
 </p>
 
-### My Home | Workspace:
+### My Wrike Home | Workspace:
 <p>
   <figure>
   <img src='Images/Workspace.png'>  
