@@ -5,28 +5,30 @@
 
 Here are some of the key responsibilities of a Wrike Administrator:
 
-* **User Management:**
-    * Adding, removing, and editing user accounts
-    * Assigning user roles and permissions
-    * Managing user groups
-    * Setting up and managing user workflows
-* **Project Management:**
-    * Creating and managing projects
-    * Setting project permissions
-    * Monitoring project progress
-    * Reporting on project data
-* **Settings Management:**
-    * Configuring workspace settings
-    * Managing custom fields and workflows
-    * Integrating Wrike with other applications
-    * Maintaining data security and compliance
+1. **User Management:**
+- Adding, removing, and editing user accounts
+- Assigning user roles and permissions
+- Managing user groups
+- Setting up and managing user workflows
+
+2. **Project Management:**
+- Creating and managing projects
+- Setting project permissions
+- Monitoring project progress
+- Reporting on project data
+
+3. **Settings Management:**
+- Configuring workspace settings
+- Managing custom fields and workflows
+- Integrating Wrike with other applications
+- Maintaining data security and compliance
 
 In addition to the above, Wrike Administrators may also be responsible for:
 
-* Training users on how to use Wrike
-* Troubleshooting Wrike issues
-* Providing support to users
-* Creating and maintaining documentation
+- Training users on how to use Wrike
+- Troubleshooting Wrike issues
+- Providing support to users
+- Creating and maintaining documentation
 
 The specific responsibilities of a Wrike Administrator will vary depending on the size and needs of the organization. However, all Wrike Administrators should have a strong understanding of Wrike and be able to use it effectively.
 
